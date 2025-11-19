@@ -1,6 +1,14 @@
 
-</p>
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=EdTech%20Content%20Reviewer%20Project&width=900&height=120" />
+<div style="width:100%; overflow:hidden; display:block;">
+  <img 
+    src="https://svg-banners.vercel.app/api?type=typeWriter&text1=EdTech%20Content%20Reviewer%20Project&width=900&height=120"
+    alt="EdTech Content Reviewer Project Banner"
+    style="display:block; 
+           width:900px;
+           height:auto;
+           animation:slideBanner 10s linear infinite;">
+</div>
+
 
 # 🎓 EdTech Content Reviewer — Professional Evaluation Framework
 
