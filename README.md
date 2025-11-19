@@ -192,6 +192,9 @@ It supports scalable, high-quality learning experiences across educational conte
 
 <img width="456" height="656" alt="image" src="https://github.com/user-attachments/assets/eb3d7ed6-0466-4e9b-bbb4-c8c244f6a69d" />
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b776adc4-2dcf-4925-bc76-6de91a4a152e" />
+
+
 
 --------------------------
 
